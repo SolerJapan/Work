@@ -1,0 +1,10 @@
+C:\Users\asoler\source\repos\StrVsStrBuilder\bin\Debug\StrVsStrBuilder.exe.config
+C:\Users\asoler\source\repos\StrVsStrBuilder\bin\Debug\StrVsStrBuilder.exe
+C:\Users\asoler\source\repos\StrVsStrBuilder\bin\Debug\StrVsStrBuilder.pdb
+C:\Users\asoler\source\repos\StrVsStrBuilder\obj\Debug\StrVsStrBuilder.csproj.AssemblyReference.cache
+C:\Users\asoler\source\repos\StrVsStrBuilder\obj\Debug\StrVsStrBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\asoler\source\repos\StrVsStrBuilder\obj\Debug\StrVsStrBuilder.Properties.Resources.resources
+C:\Users\asoler\source\repos\StrVsStrBuilder\obj\Debug\StrVsStrBuilder.csproj.GenerateResource.cache
+C:\Users\asoler\source\repos\StrVsStrBuilder\obj\Debug\StrVsStrBuilder.csproj.CoreCompileInputs.cache
+C:\Users\asoler\source\repos\StrVsStrBuilder\obj\Debug\StrVsStrBuilder.exe
+C:\Users\asoler\source\repos\StrVsStrBuilder\obj\Debug\StrVsStrBuilder.pdb
