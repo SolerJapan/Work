@@ -1,0 +1,10 @@
+C:\Users\asoler\source\repos\CountWords\bin\Debug\CountWords.exe.config
+C:\Users\asoler\source\repos\CountWords\bin\Debug\CountWords.exe
+C:\Users\asoler\source\repos\CountWords\bin\Debug\CountWords.pdb
+C:\Users\asoler\source\repos\CountWords\obj\Debug\CountWords.csproj.AssemblyReference.cache
+C:\Users\asoler\source\repos\CountWords\obj\Debug\CountWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\asoler\source\repos\CountWords\obj\Debug\CountWords.Properties.Resources.resources
+C:\Users\asoler\source\repos\CountWords\obj\Debug\CountWords.csproj.GenerateResource.cache
+C:\Users\asoler\source\repos\CountWords\obj\Debug\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\asoler\source\repos\CountWords\obj\Debug\CountWords.exe
+C:\Users\asoler\source\repos\CountWords\obj\Debug\CountWords.pdb
