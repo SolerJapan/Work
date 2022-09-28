@@ -1,0 +1,11 @@
+C:\Users\asoler\source\repos\WindowsFormsAverage\bin\Debug\WindowsFormsAverage.exe.config
+C:\Users\asoler\source\repos\WindowsFormsAverage\bin\Debug\WindowsFormsAverage.exe
+C:\Users\asoler\source\repos\WindowsFormsAverage\bin\Debug\WindowsFormsAverage.pdb
+C:\Users\asoler\source\repos\WindowsFormsAverage\obj\Debug\WindowsFormsAverage.csproj.AssemblyReference.cache
+C:\Users\asoler\source\repos\WindowsFormsAverage\obj\Debug\WindowsFormsAverage.csproj.SuggestedBindingRedirects.cache
+C:\Users\asoler\source\repos\WindowsFormsAverage\obj\Debug\WindowsFormsAverage.Form1.resources
+C:\Users\asoler\source\repos\WindowsFormsAverage\obj\Debug\WindowsFormsAverage.Properties.Resources.resources
+C:\Users\asoler\source\repos\WindowsFormsAverage\obj\Debug\WindowsFormsAverage.csproj.GenerateResource.cache
+C:\Users\asoler\source\repos\WindowsFormsAverage\obj\Debug\WindowsFormsAverage.csproj.CoreCompileInputs.cache
+C:\Users\asoler\source\repos\WindowsFormsAverage\obj\Debug\WindowsFormsAverage.exe
+C:\Users\asoler\source\repos\WindowsFormsAverage\obj\Debug\WindowsFormsAverage.pdb
